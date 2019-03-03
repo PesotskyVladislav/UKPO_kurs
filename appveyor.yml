@@ -1,3 +1,2 @@
 image: Visual Studio 2013
-test_script:
-	- cmd: C:\projects\test-new\build\lib\Debug\x32\testapp.exe
+test_script: cmd: C:\projects\test-new\build\lib\Debug\x32\testapp.exe
